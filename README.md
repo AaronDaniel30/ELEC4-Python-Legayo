@@ -57,10 +57,10 @@ python SET1/p4/p4_exceptions.py
 
 ### P4 – Safe Menu Program
 
-![Invalid number](SET1\p4\screenshots\1_divide_numbers.png)
+![Invalid number](SET1/p4/screenshots/1_divide_numbers.png)
 
-![Division by zero](SET1\p4\screenshots\division_by_zero.png)
+![Division by zero](SET1/p4/screenshots/division_by_zero.png)
 
-![Missing file](SET1\p4\screenshots\2_open_a_file.png)
+![Missing file](SET1/p4/screenshots/2_open_a_file.png)
 
-![Invalid menu choice](SET1\p4\screenshots\invalid_menu_selection.png)
+![Invalid menu choice](SET1/p4/screenshots/invalid_menu_selection.png)
