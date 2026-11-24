@@ -1,0 +1,5 @@
+23-LN-0001|Aaron Daniel Legayo|BSIT-C|95.0
+23-LN-0002|Adrian Manangan|BSIT-C|94.0
+23-LN-0003|Rhamsus Cagampan|BSIT-C|90.0
+23-LN-0004|Kevin Vila|BSIT-C|98.0
+23-LN-0005|John Angelo De Vera|BSIT-C|99.0
