@@ -1,0 +1,6 @@
+Name: Aaron Daniel A. Legayo
+Course: BSIT
+Section: IV-C
+
+I am learning Python exception handling.
+This is my sample text file.
