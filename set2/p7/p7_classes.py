@@ -80,7 +80,7 @@ def main():
     print("================================")
 
     # Create three student objects.
-    student1 = Student("2024-001", "Adrian Manangan", "BSIT", 90)
+    student1 = Student("2024-001", "Adrian Manangan", "BSIT", 96)
     student2 = Student("2024-002", "Rhamsus Cagampan", "BSIT", 92)
     student3 = Student("2024-003", "Kevin Vila", "BSIT", 88)
 
@@ -108,7 +108,7 @@ def main():
         student_to_update.update_information(
             "Adrian Manangan", "BSIT - Section IV-B"
         )
-        student_to_update.set_grade(95)
+        student_to_update.set_grade(100)
         print("Adrian Manangan's information successfully updated.")
 
     # Display all students after updating.

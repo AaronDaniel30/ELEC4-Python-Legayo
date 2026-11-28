@@ -2,4 +2,6 @@
 23-LN-0002|Adrian Manangan|BSIT-C|94.0
 23-LN-0003|Rhamsus Cagampan|BSIT-C|90.0
 23-LN-0004|Kevin Vila|BSIT-C|98.0
-23-LN-0005|John Angelo De Vera|BSIT-C|99.0
+23-LN-0005|John Angelo De Vera|BSIT-B|79.0
+23-ln-0001|Aaron Daniel Legayo|BSIT-C|90.0
+23-ln-0002|Adrian Manangan|BSIT-C|87.0
